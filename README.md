@@ -9,3 +9,9 @@ Introducing a captivating Spotify clone crafted with HTML and CSS, Seamlessly de
 
 
 ## Project Snips:
+
+### Home-page
+![Screenshot (224)](https://github.com/dharmendrakumarsoni/Spotify-Clone/assets/136853362/68d3501c-d38a-40a1-a0da-7c12f42376f6)
+
+### Playlist-page
+![Screenshot (225)](https://github.com/dharmendrakumarsoni/Spotify-Clone/assets/136853362/afc41e69-5e10-40dc-a46a-e46fc3817361)
